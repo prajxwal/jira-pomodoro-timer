@@ -1,3 +1,5 @@
+//johnson ticket - PS-14
+// Redirects user to Spotify's authorization page to initiate OAuth2 flow
 import { NextResponse } from "next/server";
 
 export async function GET() {
